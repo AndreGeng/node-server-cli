@@ -1,6 +1,6 @@
 {
   "name": "@andregeng/node-server-cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -21,9 +21,12 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.20.0",
+    "consolidate": "^0.15.1",
     "debug": "^4.1.1",
     "download-git-repo": "^2.0.0",
+    "handlebars": "^4.4.3",
     "inquirer": "^6.5.0",
+    "metalsmith": "^2.3.0",
     "ora": "^3.4.0"
   },
   "devDependencies": {
