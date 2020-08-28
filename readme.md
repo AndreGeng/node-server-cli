@@ -5,7 +5,7 @@
 ### 使用方法
 
 ```
-npm i node-server-cli -g
+npm i node-server -g
 node-server init
 ```
 
