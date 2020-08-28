@@ -1,10 +1,10 @@
 {
-  "name": "@mt/node-server-cli",
+  "name": "node-server-cli",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "node-server-cli": "./bin/node-server-cli.js"
+    "node-server": "./bin/node-server-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,8 +27,8 @@
     "ora": "^3.4.0"
   },
   "devDependencies": {
-    "commitlint": "^8.1.0",
-    "eslint": "^6.1.0",
+    "commitlint": "^9.1.2",
+    "eslint": "^7.7.0",
     "husky": "^3.0.2",
     "prettier": "^1.18.2",
     "pretty-quick": "^1.11.1"

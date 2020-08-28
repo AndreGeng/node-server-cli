@@ -5,8 +5,8 @@
 ### 使用方法
 
 ```
-inpm i @mt/node-server-cli -g
-node-server-cli init
+npm i node-server-cli -g
+node-server init
 ```
 
 它会下载一个基于 koa2+ts 的 node-server 脚手架方便项目搭建
